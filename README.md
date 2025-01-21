@@ -1,6 +1,7 @@
 # Petopia - Virtual Pet Game
 
-# Credits: This was a group project, the collaborators are: Adeoluwa Christoff Anthony-Egorp, Hassan Zeeshan, Isabella Villaroman, Keith Nirmal Sarkar, and Thevindu Hasal Dasanayaka.
+## Credits
+This was a group project, the collaborators are: Adeoluwa Christoff Anthony-Egorp, Hassan Zeeshan, Isabella Villaroman, Keith Nirmal Sarkar, and Thevindu Hasal Dasanayaka.
 
 ## Short Description
 

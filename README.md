@@ -4,8 +4,11 @@
 This was a group project, the collaborators are: Adeoluwa Christoff Anthony-Egorp, Hassan Zeeshan, Isabella Villaroman, Keith Nirmal Sarkar, and Thevindu Hasal Dasanayaka.
 
 ## Project Images
-![image](https://github.com/user-attachments/assets/4c60c4de-893e-48a0-9fbd-33d0c5060a48)
-
+![image](https://github.com/user-attachments/assets/4c60c4de-893e-48a0-9fbd-33d0c5060a48) 
+---
+![image](https://github.com/user-attachments/assets/ede65c53-8f74-4642-a44c-f032130b1877)
+---
+![image](https://github.com/user-attachments/assets/93fd7501-60fd-49b9-9415-f12f28f16301)
 
 ## Short Description
 

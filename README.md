@@ -1,5 +1,7 @@
 # Petopia - Virtual Pet Game
 
+# Credits: This was a group project, the collaborators are: Adeoluwa Christoff Anthony-Egorp, Hassan Zeeshan, Isabella Villaroman, Keith Nirmal Sarkar, and Thevindu Hasal Dasanayaka.
+
 ## Short Description
 
 Petopia is an engaging virtual pet game where players adopt, care for, and interact with digital pets. The game offers a variety of activities, including feeding, playing, and managing pet stats like health, happiness, fullness, and sleep. It also features parental controls, inventory management, playtime statistics, and save/load functionality.
